@@ -1,4 +1,4 @@
-<h1> Hello there! I'm Mohit Kumar.<img src="src/Hi.gif" width="40px" height="40px" style="max-width: 10%;"></h1>
+<h1> Hello there! I'm Deepak chaubey.<img src="src/Hi.gif" width="40px" height="40px" style="max-width: 10%;"></h1>
  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Fixing+bugs+😅+;Working+on+various+side+projects;Lets+catch+up,+connect+with++me+on+Linkedin)](https://git.io/typing-svg)
@@ -27,7 +27,7 @@
 ## 🤝🏻 &nbsp;Connect with Me
 
 <a href="https://www.linkedin.com/in/mohit-kumar-profile/">
-<img   align="left" alt="holisitc_developer |  Mohit kumar LinkedIn" width="30px" src="src/linkedin.png" /></a>
+<img   align="left" alt="holisitc_developer |  Deepak Chauey LinkedIn" width="30px" src="src/linkedin.png" /></a>
 
 <a  href="https://www.instagram.com/mohitkumar.buzz/">
 <img href="https://www.instagram.com/mohitkumar.buzz/" align="left" alt="holisitc_developer | Mohit kumar Instagram" width="30px" src="src/instagram.png" /></a>
