@@ -26,13 +26,13 @@
  
 ## 🤝🏻 &nbsp;Connect with Me
 
-<a href="https://www.linkedin.com/in/mohit-kumar-profile/">
+<a href="https://www.linkedin.com/in/deepak-kumar-chaubey-484282207">
 <img   align="left" alt="holisitc_developer |  Deepak Chauey LinkedIn" width="30px" src="src/linkedin.png" /></a>
 
-<a  href="https://www.instagram.com/mohitkumar.buzz/">
-<img href="https://www.instagram.com/mohitkumar.buzz/" align="left" alt="holisitc_developer | Mohit kumar Instagram" width="30px" src="src/instagram.png" /></a>
-<a   href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=mohitkumar11725@gmail.com" >
-<img align="left" alt="holisitc_developer | Mohit kumar Gmail" width="32px" src="src/gmail.png" /></a>
+<a  href="https://www.instagram.com/kumar_deepak_45/">
+<img href="https://www.instagram.com/kumar_deepak_45/" align="left" alt="holisitc_developer | Deepak Chaubey Instagram" width="30px" src="src/instagram.png" /></a>
+<a   href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=dc841662@gmail.com" >
+<img align="left" alt="holisitc_developer | Deepak Chaubey Gmail" width="32px" src="src/gmail.png" /></a>
 
 <br/><br>
 <br/>
